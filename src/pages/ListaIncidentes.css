@@ -1,0 +1,21 @@
+.lista-container {
+  padding: 16px;
+}
+
+.badges-container {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.fecha-texto {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #666;
+}
+
+.incidentes-list {
+  margin-top: 16px;
+}
+

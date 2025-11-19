@@ -1,0 +1,20 @@
+.stat-card {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  background: var(--ion-color-primary-tint);
+  border-radius: 8px;
+}
+
+.stat-card h2 {
+  font-size: 48px;
+  margin: 0;
+  color: var(--ion-color-primary);
+}
+
+.stat-card p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: var(--ion-color-primary-shade);
+}
+

@@ -1,0 +1,28 @@
+.badges-header {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.descripcion-section,
+.notas-section,
+.fotos-section,
+.fechas-section {
+  margin-top: 20px;
+  padding: 10px 0;
+}
+
+.fotos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.foto-detalle {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+

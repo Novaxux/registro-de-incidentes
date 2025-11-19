@@ -1,0 +1,7 @@
+{
+  "name": "examen_incidentes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
