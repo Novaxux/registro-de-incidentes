@@ -1,0 +1,9 @@
+{
+  "appId": "com.ucolima.telematica.incidentes",
+  "appName": "Registro de Incidentes",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

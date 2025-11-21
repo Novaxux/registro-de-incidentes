@@ -47,7 +47,7 @@ export interface Usuario {
   id: string;
   nombre: string;
   email: string;
-  password?: string; // Solo para autenticación local
+  password: string; // Solo para autenticación local
   notificacionesHabilitadas: boolean;
   biometriaHabilitada: boolean;
 }
